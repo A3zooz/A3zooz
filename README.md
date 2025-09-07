@@ -63,6 +63,22 @@ I'm a passionate **Full-Stack Developer** with a strong focus on **mobile develo
 
 ## 🏆 Featured Projects
 
+### 🏛️ [Canadian Chamber Of Commerce](https://github.com/Advanced-Computer-Lab-2022/Agiles)
+> *Complete Online Learning System*
+
+**MERN Stack • MongoDB • Express.js • React • Node.js**
+
+A comprehensive e-learning platform built using the MERN stack, following Agile methodology. Features course management, video streaming, payment processing, and role-based access for admins, instructors, and trainees.
+
+**Key Features:**
+- 🎓 Complete course management system with video streaming
+- 💳 Integrated payment system with Stripe and wallet functionality
+- 👥 Multi-role authentication (Admin, Instructor, Trainee)
+- 📊 Progress tracking and certificate generation
+- 🔍 Advanced search and filtering capabilities
+
+---
+
 ### 📱 [SpokenHabit - Voice-Controlled Habit Tracker](https://github.com/A3zooz/spoken-habit)
 > *Transform your habits through the power of voice*
 
@@ -75,21 +91,6 @@ A hands-free habit tracking and todo management app that understands natural spe
 - 📊 Real-time habit tracking with statistics  
 - 🔄 Cross-platform synchronization
 - 🌓 Light/dark theme support
-
----
-
-### 🏈 [3D Football Penalty Game](https://github.com/A3zooz/football) 
-> *Real-time 3D football penalty shootout built from scratch*
-
-**C++ • OpenGL • 3D Graphics • Game Development**
-
-A complete 3D football game featuring real-time rendering, physics simulation, and interactive gameplay. Built entirely from the ground up using C++ and OpenGL.
-
-**Technical Highlights:**
-- 🎮 Real-time 3D rendering pipeline
-- 🏆 Custom 3D model loader (.3DS format)
-- 💡 Advanced lighting and material systems
-- 🎯 Physics-based collision detection
 
 ---
 
@@ -108,21 +109,81 @@ A high-performance reverse proxy server with weighted load balancing, health che
 
 ---
 
+### 🎓 [Bachelor Defense Scheduling System](https://github.com/A3zooz/Bachelor-Defense-System)
+> *Scheduling system for defenses using genetic algorithm*
+
+**JavaScript • Genetic Algorithm • Django • React**
+
+An intelligent scheduling system that uses genetic algorithms to optimize bachelor thesis defense scheduling. Features full-stack architecture with Django backend and React frontend.
+
+**Technical Highlights:**
+- 🧬 Genetic algorithm for optimal scheduling
+- 🐳 Docker containerized deployment
+- 🌐 Full-stack web application
+- ⚙️ Automated conflict resolution
+
+---
+
+### 🎮 [The Conqueror: Java Strategy Game](https://github.com/A3zooz/Game)
+> *Turn-based grand strategy game built in Java*
+
+**Java • Swing GUI • Object-Oriented Programming**
+
+A complete turn-based strategy game inspired by classic empire-building titles. Features faction management, resource allocation, army building, and conquest mechanics with a custom Java Swing interface.
+
+**Game Features:**
+- 🏛️ Three playable factions (Rome, Sparta, Cairo)
+- ⚔️ Army management with multiple unit types
+- 🏗️ City development and resource management
+- 🗺️ Dynamic world map with combat system
+
+---
+
 ### 🎯 [AI Calendar Assistant](https://github.com/A3zooz/AICalendar)
 > *Use your voice with AI to manage your schedule*
 
 **JavaScript • AI Integration • Voice Processing**
 
-An intelligent calendar system that processes natural language input to manage schedules and appointments through voice commands.
+An intelligent calendar system that processes natural language input to manage schedules and appointments. Features plain text availability input with custom calendar visualization.
+
+**Features:**
+- 🎤 Natural language processing for schedule input
+- 📅 Custom calendar interface
+- 🤖 AI-powered schedule optimization
+- 🌐 Web-based application with npm deployment
 
 ---
 
-### 🏠 [Smart Home FPGA System](https://github.com/A3zooz/smarthome)
-> *Smart Home System Using VHDL and FPGA Board*
+### 🔍 [What Is This Game](https://github.com/A3zooz/WhatisthisGame)
+> *Interactive guessing game*
 
-**VHDL • FPGA • Hardware Programming • IoT**
+**Game Development • Interactive Entertainment**
 
-A comprehensive smart home control system implemented on FPGA hardware using VHDL, showcasing expertise in low-level hardware programming and digital system design.
+*Note: Repository not currently accessible - may be private or renamed.*
+
+---
+
+### 🏈 [3D Football Penalty Shootout](https://github.com/A3zooz/football)
+> *Real-time 3D football penalty shootout built from scratch*
+
+**C++ • OpenGL • 3D Graphics • Game Development**
+
+A complete 3D football penalty game featuring real-time rendering, physics simulation, and interactive gameplay. Built entirely from the ground up using C++ and OpenGL with custom 3D model loading.
+
+**Technical Highlights:**
+- 🎮 Real-time 3D rendering pipeline
+- 🏆 Custom .3DS model loader implementation
+- 💡 Advanced lighting and material systems
+- 🎯 Physics-based collision detection
+
+---
+
+### 👾 [Space Invaders](https://github.com/A3zooz/space-invaders)
+> *Classic arcade game implementation*
+
+**Game Development • Arcade Classic**
+
+*Note: Repository not currently accessible - may be private or renamed.*
 
 ## 📊 GitHub Analytics
 
