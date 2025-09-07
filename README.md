@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed! 👋
 
 <div align="center">
-![Header](https://github.com/user-attachments/assets/902d6fb8-f8ee-491b-89fe-d7e11b60c795)
+(https://github.com/user-attachments/assets/902d6fb8-f8ee-491b-89fe-d7e11b60c795)
 
 **Full-Stack Developer**
 
