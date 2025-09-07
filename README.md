@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed! 👋
 
 <div align="center">
-(https://github.com/user-attachments/assets/902d6fb8-f8ee-491b-89fe-d7e11b60c795)
+<img src= "https://github.com/user-attachments/assets/902d6fb8-f8ee-491b-89fe-d7e11b60c795">
 
 **Full-Stack Developer**
 
