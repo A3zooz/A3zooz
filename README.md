@@ -1,9 +1,7 @@
 # Hi there, I'm Ahmed! 👋
 
 <div align="center">
-
-![Header](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)
-
+![Header](https://github.com/user-attachments/assets/0de8e1a9-23d8-499e-842b-be6281d97b6b)
 **Full-Stack Developer**
 
 
