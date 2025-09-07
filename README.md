@@ -4,21 +4,15 @@
 
 ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-**Full-Stack Developer | Mobile App Enthusiast | AI Integration Specialist**
+**Full-Stack Developer**
 
-*Building the future, one line of code at a time* 🚀
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** with a strong focus on **mobile development** and **emerging technologies**. I love creating innovative solutions that bridge the gap between cutting-edge technology and real-world applications.
+I'm a passionate **Full-Stack Developer** with a strong focus on **backend development**, **mobile development** and **emerging technologies**. I love creating innovative solutions that bridge the gap between cutting-edge technology and real-world applications.
 
-- 🔭 Currently working on **voice-controlled applications** and **AI-integrated mobile apps**
-- 🌱 Learning advanced **Machine Learning** and **Computer Vision** techniques
-- 💡 Passionate about **React Native**, **3D Graphics**, and **IoT Development**
-- 🎯 Goal: Contributing to open-source projects and building impactful applications
-- ⚡ Fun fact: I built a 3D football game from scratch using OpenGL and C++!
 
 ## 🛠️ Tech Stack & Skills
 
@@ -40,18 +34,21 @@ I'm a passionate **Full-Stack Developer** with a strong focus on **mobile develo
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🗄️ Backend & Database
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 ### 🤖 AI & Special Interests
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -95,7 +92,7 @@ A hands-free habit tracking and todo management app that understands natural spe
 ---
 
 ### 🔄 [Enterprise Reverse Proxy](https://github.com/A3zooz/reverse-proxy)
-> *Production-ready reverse proxy with load balancing*
+> * Reverse proxy with load balancing*
 
 **Node.js • Express • Docker • JWT Authentication**
 
@@ -155,12 +152,11 @@ An intelligent calendar system that processes natural language input to manage s
 ---
 
 ### 🔍 [What Is This Game](https://github.com/A3zooz/WhatisthisGame)
-> *Interactive guessing game*
+> *Endless Runner using Unity*
 
-**Game Development • Interactive Entertainment**
+**Unity Game Development**
 
-*Note: Repository not currently accessible - may be private or renamed.*
-
+Subway Surfers like game using Unity
 ---
 
 ### 🏈 [3D Football Penalty Shootout](https://github.com/A3zooz/football)
@@ -179,11 +175,11 @@ A complete 3D football penalty game featuring real-time rendering, physics simul
 ---
 
 ### 👾 [Space Invaders](https://github.com/A3zooz/space-invaders)
-> *Classic arcade game implementation*
+> *Classic arcade game implementation using OpenGL*
 
 **Game Development • Arcade Classic**
 
-*Note: Repository not currently accessible - may be private or renamed.*
+OpenGL 2D implementation.
 
 ## 📊 GitHub Analytics
 
@@ -220,17 +216,17 @@ A complete 3D football penalty game featuring real-time rendering, physics simul
 
 ## 🌟 Professional Highlights
 
-- 🎓 **Academic Excellence**: Developed thesis projects including genetic algorithm-based scheduling systems
+- 🎓 **Academic Excellence**: Developed projects including genetic algorithm-based scheduling systems
+- **Backend Expertise**: Developed production projects using NestJS
 - 📱 **Mobile Expertise**: Built production-ready React Native apps with advanced features
-- 🔧 **DevOps Skills**: Experienced with Docker, CI/CD, and production deployment strategies  
+- 🔧 **DevOps Skills**: Experienced with Docker. 
 - 🚀 **Innovation Focus**: Consistently exploring emerging technologies and integration patterns
-- 📚 **Documentation**: Strong believer in comprehensive project documentation and knowledge sharing
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-hmoda201@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmoda201@gmail.com)
+[![Gmail](https://img.shields.io/badge/-hmoda201@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.mohammed.azzooz@gmail.com)
 [![GitHub](https://img.shields.io/badge/-A3zooz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A3zooz)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
@@ -240,9 +236,10 @@ A complete 3D football penalty game featuring real-time rendering, physics simul
 
 <div align="center">
 
-### *"Code is poetry written in logic"* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A3zooz&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/A3zooz?style=social)](https://github.com/A3zooz)
 
 </div>
+
+Note: This was generated using AI so some info maybe a bit exaggerated.
