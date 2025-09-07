@@ -226,7 +226,7 @@ OpenGL 2D implementation.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-hmoda201@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.mohammed.azzooz@gmail.com)
+[![Gmail](https://img.shields.io/badge/-ahmed.mohammed.azzooz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.mohammed.azzooz@gmail.com)
 [![GitHub](https://img.shields.io/badge/-A3zooz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A3zooz)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
