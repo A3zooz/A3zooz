@@ -95,7 +95,7 @@ A hands-free habit tracking and todo management app that understands natural spe
 
 **Node.js • Express • Docker • JWT Authentication**
 
-A high-performance reverse proxy server with weighted load balancing, health checks, rate limiting, and JWT authentication. Fully dockerized for production deployment.
+A high-performance reverse proxy server with weighted load balancing, health checks, rate limiting, and JWT authentication.
 
 **Enterprise Features:**
 - ⚖️ Intelligent load balancing with health monitoring
