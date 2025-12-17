@@ -90,7 +90,7 @@ A hands-free habit tracking and todo management app that understands natural spe
 
 ---
 
-### 🔄 [Enterprise Reverse Proxy](https://github.com/A3zooz/reverse-proxy)
+### 🔄 [Reverse Proxy](https://github.com/A3zooz/reverse-proxy)
 > * Reverse proxy with load balancing*
 
 **Node.js • Express • Docker • JWT Authentication**
